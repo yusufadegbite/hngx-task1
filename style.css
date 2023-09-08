@@ -1,0 +1,18 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: #964B00;
+}
+.container {
+  margin: auto;
+  margin-top: 10rem;
+}
+img {
+width: 150px;
+height: 150px;
+  border-radius: 50%;
+}
+a {
+  color: black;
+  text-decoration: none;
+}
